@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi, I'm Haiming Zhang 👋
+
+<!--
+**yanx27/yanx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![zhanghm1995's github stats](https://github-readme-stats.vercel.app/api?username=zhanghm1995&show_icons=true&hide=prs&&count_private=false&theme=default_repocard)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghm1995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- ✧ Homepage: https://yanx27.github.io/
+
+✧ Google Scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=TK4Ty0gAAAAJ -->
 
 <!--
 **zhanghm1995/zhanghm1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
