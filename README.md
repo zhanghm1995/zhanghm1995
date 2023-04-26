@@ -1,7 +1,8 @@
 ### Hi, I'm Haiming Zhang 👋
 
-![zhanghm1995's github stats](https://github-readme-stats.vercel.app/api?username=zhanghm1995&show_icons=true&hide=prs&&count_private=false&theme=default_repocard)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghm1995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![zhanghm1995's github stats](https://github-readme-stats.vercel.app/api?username=zhanghm1995&show_icons=true&hide=prs&&count_private=false&theme=default_repocard) -->
+![zhanghm1995's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhanghm1995&&show_icons=true&theme=default_repocard)
+[![Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhanghm1995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
